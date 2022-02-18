@@ -1,0 +1,25 @@
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\obj\Debug\BankingApp.csprojAssemblyReference.cache
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\obj\Debug\BankingApp.Form1.resources
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.cache
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\obj\Debug\BankingApp.MasterScreen.resources
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\obj\Debug\BankingApp.Withdrawal.resources
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\BankingApp\BankingApp\obj\Debug\BankingApp.Balance.resources
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.csprojAssemblyReference.cache
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.Balance.resources
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.Form1.resources
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.MasterScreen.resources
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.Withdrawal.resources
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.cache
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\nonna\Desktop\Personal\AIE\Database fundamentals\Nancy Anne van Blerk - Code - Copy\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
